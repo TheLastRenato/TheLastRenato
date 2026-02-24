@@ -1,6 +1,6 @@
 # Oi, Eu sou Renato! 👋
 
-Desenvolvedor focado em resolver problemas e construir coisas que funcionam.
+Desenvolvedor focado em resolver problemas e construir coisas que funcionam, Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em Python, TypeScript e PHP. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web e análise de dados, buscando sempre soluções eficientes e criativas para desafios do mundo real.
 
 ### 🚀 No que estou trabalhando agora:
 - **Análise de Dados:** Explorando padrões e tendências.
@@ -14,9 +14,7 @@ Desenvolvedor focado em resolver problemas e construir coisas que funcionam.
 - **Ferramentas:** Git, VS Code, Vercel.
 
 ---
-*Sinta-se à vontade para explorar meus repositórios!* 👊# Olá, eu sou Renato! 👋
-
-Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em Python, TypeScript e PHP. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web e análise de dados, buscando sempre soluções eficientes e criativas para desafios do mundo real.
+*Sinta-se à vontade para explorar meus repositórios!* 👊
 
 ## O que você encontrará aqui:
 
