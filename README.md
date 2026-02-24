@@ -1,4 +1,26 @@
-# Olá, eu sou Renato! 👋
+# Fala, eu sou o Renato! 👋
+
+Desenvolvedor focado em resolver problemas e construir coisas que funcionam. Não fico preso a uma tecnologia só; se o desafio pede **Python** para análise de dados, **TypeScript** para um front moderno ou **PHP** para um sistema robusto, eu vou lá e faço acontecer.
+
+### 🚀 No que estou trabalhando agora:
+- **Análise de Dados:** Explorando padrões e tendências (especialmente no mercado financeiro/forex).
+- **Web Dev:** Criando interfaces rápidas e funcionais com React e Vite.
+- **Sistemas:** Desenvolvendo soluções de gestão de ponta a ponta.
+
+### 🛠️ Minha caixa de ferramentas:
+- **Linguagens:** Python, TypeScript, PHP, JavaScript.
+- **Front-end:** React, Vite, TailwindCSS, HTML/CSS.
+- **Back-end & DB:** PHP, MySQL.
+- **Ferramentas:** Git, VS Code, Vercel.
+
+---
+
+### 💬 Vamos trocar uma ideia?
+Seja para falar sobre código, projetos ou colaborações, pode me chamar:
+- **Email:** renatobrandstorm@gmail.com
+- **Instagram:** [@looovenato](https://www.instagram.com/looovenato/)
+
+*Sinta-se à vontade para explorar meus repositórios!* 👊# Olá, eu sou Renato! 👋
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em Python, TypeScript e PHP. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web e análise de dados, buscando sempre soluções eficientes e criativas para desafios do mundo real.
 
