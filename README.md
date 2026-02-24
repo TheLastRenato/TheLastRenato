@@ -7,7 +7,7 @@ Desenvolvedor focado em resolver problemas e construir coisas que funcionam.
 - **Web Dev:** Criando interfaces rápidas e funcionais com React e Vite.
 - **Sistemas:** Desenvolvendo soluções de gestão de ponta a ponta.
 
-### 🛠️ Minha caixa de ferramentas:
+### 🛠️ Minhas ferramentas:
 - **Linguagens:** Python, TypeScript, PHP, JavaScript, C##.
 - **Front-end:** React, Vite, TailwindCSS, HTML/CSS.
 - **Back-end & DB:** PHP, MySQL.
