@@ -1,4 +1,4 @@
-# Oi, Com todo o prazer eu sou Renato! 👋
+# Oi, Eu sou Renato! 👋
 
 Desenvolvedor focado em resolver problemas e construir coisas que funcionam.
 
