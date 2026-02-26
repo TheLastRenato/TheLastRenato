@@ -1,4 +1,4 @@
-# Oi, Eu sou Renato! 👋
+# Oi, Meu nome é Renato! 👋
 
 Desenvolvedor focado em resolver problemas e construir coisas que funcionam, Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em Python, TypeScript e PHP. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web e análise de dados, buscando sempre soluções eficientes e criativas para desafios do mundo real.
 
