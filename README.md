@@ -6,12 +6,10 @@ Desenvolvedor focado em resolver problemas e construir coisas que funcionam, Sou
 - **Web Dev:** Criando interfaces rápidas e funcionais com React e Vite.
 - **Sistemas:** Desenvolvendo soluções de gestão de ponta a ponta.
 ---
-*Sinta-se à vontade para explorar meus repositórios!* 👊
 
 ## O que você encontrará aqui:
 
 - **Projetos Pessoais:** Repositórios que demonstram minhas habilidades e paixões, desde análise de dados até sistemas de gestão.
-- **Contribuições:** Meus commits e colaborações em projetos open source.
 - **Aprendizado Contínuo:** Projetos e experimentos que refletem meu processo de aprendizado e exploração de novas tecnologias.
 
 ## Habilidades Técnicas:
