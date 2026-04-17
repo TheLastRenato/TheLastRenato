@@ -3,7 +3,6 @@
 Desenvolvedor focado em resolver problemas e construir coisas que funcionam, Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em Python, TypeScript e PHP. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web e análise de dados, buscando sempre soluções eficientes e criativas para desafios do mundo real.
 
 ### 🚀 No que estou trabalhando agora:
-- **Análise de Dados:** Explorando padrões e tendências.
 - **Web Dev:** Criando interfaces rápidas e funcionais com React e Vite.
 - **Sistemas:** Desenvolvendo soluções de gestão de ponta a ponta.
 
