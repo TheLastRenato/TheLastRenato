@@ -2,7 +2,6 @@
 
 **Desenvolvedor Fullstack em ascensão, focado em transformar dados em experiências digitais eficientes. Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário, onde possa aplicar meu domínio em Python, TypeScript e PHP para construir produtos escaláveis e de alto impacto.**
 
-Minha abordagem une a precisão da análise de dados com uma forte sensibilidade para **UI/UX**, acreditando que um software de excelência deve ser tão robusto no backend quanto intuitivo para o usuário final. Sou movido pelo desafio de criar soluções que não apenas funcionem, mas que cresçam de forma sustentável e ofereçam a melhor jornada possível ao usuário.
 
 ---
 
