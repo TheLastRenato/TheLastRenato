@@ -38,13 +38,6 @@ Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior ou Esta
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLastRenato&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=C9D1D9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastRenato&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=C9D1D9" alt="Top Langs" />
-</p>
-
 ---
 
 ### 📫 Contato
