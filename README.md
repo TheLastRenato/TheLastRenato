@@ -1,34 +1,12 @@
-# <p align="center">✨ Hi there, I'm Renato! 👋</p>
+# Renato Brandão
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A97BFF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Problem+Solver;Tech+Enthusiast;Building+the+future+with+code" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/looovenato/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:renatobrandstorm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/5511999672908">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+Desenvolvedor focado em Python, TypeScript e PHP, com experiência na construção de soluções web e análise de dados. Atualmente focado em aprimorar habilidades em desenvolvimento fullstack e arquitetura de sistemas.
 
 ---
 
-### 📖 About Me
+### 🛠️ Tech Stack
 
-I'm a passionate developer focused on solving real-world problems through elegant and efficient code. Currently, I'm deep-diving into **Web Development** and **Data Analysis**, always looking for creative ways to build functional systems.
-
-- 🚀 **Currently working on:** Fast and functional interfaces with **React** & **Vite**.
-- 🛠️ **Developing:** End-to-end management solutions and data-driven applications.
-- 🎓 **Learning:** Constantly exploring new technologies and refining my process.
-
----
-
-### 🛠️ My Tech Stack
+**Linguagens & Ferramentas**
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -38,6 +16,8 @@ I'm a passionate developer focused on solving real-world problems through elegan
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
+**Frameworks & Web**
+
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -45,6 +25,8 @@ I'm a passionate developer focused on solving real-world problems through elegan
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+
+**Infraestrutura & Ferramentas**
 
 <p align="left">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -55,26 +37,17 @@ I'm a passionate developer focused on solving real-world problems through elegan
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLastRenato&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=A97BFF&icon_color=A97BFF&text_color=C9D1D9" alt="Renato's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastRenato&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=A97BFF&text_color=C9D1D9" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheLastRenato&theme=dracula" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheLastRenato&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastRenato&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=C9D1D9" alt="Top Langs" />
 </p>
 
 ---
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+### 📫 Contato
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A97BFF&height=100&section=footer" />
-</p>
+- **Email:** [renatobrandstorm@gmail.com](mailto:renatobrandstorm@gmail.com)
+- **Instagram:** [@looovenato](https://www.instagram.com/looovenato/)
+- **WhatsApp:** [+55 11 99967-2908](https://wa.me/5511999672908)
