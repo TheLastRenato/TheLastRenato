@@ -36,6 +36,7 @@ Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior ou Esta
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/vercel-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="Vercel" />
 </p>
 
 ---
