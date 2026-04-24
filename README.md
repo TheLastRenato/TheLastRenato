@@ -24,7 +24,9 @@ Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior ou Esta
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" 
+      <img src="https://img.shields.io/badge/figma-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Figma" />
+     <img src="https://img.shields.io/badge/Wordpress-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt=Wordpress" />
 </p>
 
 **Infraestrutura & Ferramentas**
