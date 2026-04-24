@@ -38,8 +38,6 @@ Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior ou Esta
 
 ---
 
----
-
 ### 📫 Contato
 
 - **Email:** [renatobrandstorm@gmail.com](mailto:renatobrandstorm@gmail.com)
