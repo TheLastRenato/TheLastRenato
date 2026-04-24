@@ -1,6 +1,6 @@
 # Renato Santos
 
-Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário, onde possa aplicar meu domínio em Python, TypeScript e PHP para construir produtos escaláveis e de alto impacto.**
+Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário, onde possa crescer na carreira de desenvolvedor e evoluir de forma profissional e pessoal.**
 
 
 ---
